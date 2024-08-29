@@ -1,14 +1,10 @@
 table, tr, th{
-
     border: 1px solid; 
-
-
 }
 table{
     width: 200px;
     height: 200px;
 }
-
 /* A */
 .Arow1 .Acol2, .Arow2 .Acol1, .Arow2 .Acol3, .Arow3 {
     background-color: blueviolet;
