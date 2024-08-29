@@ -1,0 +1,39 @@
+table, tr, th{
+
+    border: 1px solid; 
+
+
+}
+table{
+    width: 200px;
+    height: 200px;
+}
+
+/* A */
+.Arow1 .Acol2, .Arow2 .Acol1, .Arow2 .Acol3, .Arow3 {
+    background-color: blueviolet;
+}
+/* L */
+.Lrow1 .Lcol2, .Lrow4 .Lcol2{
+    background-color: blueviolet;
+}
+.L{
+    position: relative;
+    margin: -200px 0px 0px 210px;
+}
+/* E */
+.Erow1 .Ecol1, .Erow2 .Ecol1, .Erow3 .Ecol1, .Erow5 .Ecol1{
+    background-color: blueviolet;
+}
+.E{
+    position: relative;
+    margin: -200px 0px 0px 420px;
+}
+/* X */
+.Xrow1 .Xcol1, .Xrow1 .Xcol3, .Xrow2 .Xcol2, .Xrow3 .Xcol1, .Xrow3 .Xcol3  {
+    background-color: blueviolet;
+}
+.X{
+    position: relative;
+    margin: -200px 0px 0px 640px;
+}
